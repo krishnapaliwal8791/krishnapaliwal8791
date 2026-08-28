@@ -8,7 +8,9 @@
 
 ## 👨‍💻 About Me
 
-<img src="lanyard.svg" width="300" align="right" alt="ID Card">
+<p align="center">
+  <img src="lanyard.svg" width="280" alt="ID Card">
+</p>
 
 I'm a B.Tech AI student exploring how intelligent systems are built.
 
@@ -21,8 +23,6 @@ My interests currently revolve around:
 
 I'm focused on learning deeply, building consistently, and understanding the engineering behind modern software systems.
 
-<br/>
-<br/>
 <br/>
 
 ## 🎯 Current Focus
