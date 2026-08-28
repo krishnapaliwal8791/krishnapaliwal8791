@@ -15,9 +15,9 @@ I'm a B.Tech AI student exploring how intelligent systems are built.
 My interests currently revolve around:
 
 • Computer Vision
-• AI Systems
-• Web Development
-• Open Source
+• AI Engineering
+• Full-Stack Development
+• Open Source Learning
 
 I'm focused on learning deeply, building consistently, and understanding the engineering behind modern software systems.
 
@@ -35,7 +35,6 @@ My current mission is **Building Intelligent Systems**. I'm heavily focused on e
 
 ## 🌍 Visitor Globe
 
-<!-- Placeholder for a visitor globe, usually implemented via external services like clustrmaps or similar. Using a static or alternative as required, but keeping it as requested. -->
 <a href="https://github.com/krishnapaliwal8791">
   <img src="https://github-readme-globe.vercel.app/api?username=krishnapaliwal8791&color=58a6ff&background=0d1117" alt="Visitor Globe"/>
 </a>
@@ -44,7 +43,6 @@ My current mission is **Building Intelligent Systems**. I'm heavily focused on e
 
 ## 📈 Coding Activity Graph
 
-<!-- Example activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnapaliwal8791&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Coding Activity Graph" width="100%">
 
 <br/>
@@ -58,9 +56,9 @@ My current mission is **Building Intelligent Systems**. I'm heavily focused on e
 
 <br/>
 
-## 💬 Daily Quote
+## 💬 Favorite Quote
 
-<img src="quote.svg" width="100%" alt="Daily Quote">
+<img src="quote.svg" width="100%" alt="Favorite Quote">
 
 <br/>
 
