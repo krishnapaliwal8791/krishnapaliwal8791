@@ -33,28 +33,6 @@ My current mission is **Building Intelligent Systems**. I'm heavily focused on e
 
 <br/>
 
-## 🌍 Visitor Globe
-
-<a href="https://github.com/krishnapaliwal8791">
-  <img src="https://github-readme-globe.vercel.app/api?username=krishnapaliwal8791&color=58a6ff&background=0d1117" alt="Visitor Globe"/>
-</a>
-
-<br/>
-
-## 📈 Coding Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnapaliwal8791&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Coding Activity Graph" width="100%">
-
-<br/>
-
-## 📊 GitHub Stats & Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnapaliwal8791&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapaliwal8791&layout=compact&theme=tokyonight" width="48%" alt="Top Languages">
-</p>
-
-<br/>
 
 ## 💬 Favorite Quote
 
